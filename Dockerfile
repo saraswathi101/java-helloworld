@@ -6,4 +6,4 @@ ADD helloworld.jar hellohorld.jar
 
 EXPOSE 9080
 
-CMD java - jar helloworld.jar
+CMD java -jar helloworld.jar
