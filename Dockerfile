@@ -2,7 +2,7 @@ FROM java:8
 
 WORKDIR /
 
-ADD helloworld.jar hellohorld.jar
+ADD helloworld.jar helloworld.jar
 
 EXPOSE 9080
 
